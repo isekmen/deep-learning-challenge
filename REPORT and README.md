@@ -106,7 +106,7 @@ The purpose of the charity funding analysis for Alphabet Soup was to predict whe
 ![pic 2](https://github.com/isekmen/deep-learning-challenge/assets/101214487/b92cbd4e-6d3e-4b53-b1a6-8d36a90fbbf5)
 
     * Were you able to achieve the target model performance?
-      - Yes, by optimizing the model, The accuracy increased from 73% to 79%.
+      - Yes, by optimizing the model, the accuracy increased from 73% to 79%.
 
 ![pic 3](https://github.com/isekmen/deep-learning-challenge/assets/101214487/5419ca28-fb1b-4bec-be51-b66f97131d6c)
 
