@@ -100,19 +100,26 @@ The purpose of the charity funding analysis for Alphabet Soup was to predict whe
     * How many neurons, layers, and activation functions did you select for your neural network model, and why?
     - For the neural network model there were 2 hidden layers. The first layer had 80 neurons, the second has 30 there is also an output layer. The first and second hidden layer have the "relu" activation function. Relu is faster to compute and does not activate all the neurons at the same time. The output node was 1 and the activation function that was used was ‘Sigmoid’ as this model output is a binary classification between 0 and 1.
 
-    pic 1
+   
+![pic 1](https://github.com/isekmen/deep-learning-challenge/assets/101214487/d47307e1-50ef-46e9-ac48-08981e1e2a55)
 
-    pic 2
+![pic 2](https://github.com/isekmen/deep-learning-challenge/assets/101214487/b92cbd4e-6d3e-4b53-b1a6-8d36a90fbbf5)
 
     * Were you able to achieve the target model performance?
       - Yes, by optimizing the model, The accuracy increased from 73% to 79%.
 
-    pic 3 to pic 6
+![pic 3](https://github.com/isekmen/deep-learning-challenge/assets/101214487/5419ca28-fb1b-4bec-be51-b66f97131d6c)
+
+
+![pic 6](https://github.com/isekmen/deep-learning-challenge/assets/101214487/78c31e34-070f-40f7-9ef3-52311ef07f7f)
 
     * What steps did you take in your attempts to increase model performance?
       - It required converting the NAME column into data points, and adding a third hidden layer.
 
-      pic 4 and pic 5
+![pic 4](https://github.com/isekmen/deep-learning-challenge/assets/101214487/fbb66473-cfa9-462f-93db-b835a1971fb6)
+
+![pic 5](https://github.com/isekmen/deep-learning-challenge/assets/101214487/14e39172-ab2f-4201-83c0-c20ca95e229d)
+
 
 3. **Summary**: Summarize the overall results of the deep learning model.
 
